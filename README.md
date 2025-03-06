@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align= "center"; color=#000000;>
+<div align= "center"; style="color: #000000;">
     <img src="https://capsule-render.vercel.app/api?type=transparent&color=000000&height=120&text=Jeon%20GiHoon%20();&animation=&fontColor=ffffff&fontSize=60" />
     </div>
     <div align= "center"> 
