@@ -21,7 +21,7 @@ Here are some ideas to get you started:
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 열심히 살고있는중인 전기훈입니다 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> • 저는 꾸준히 성장하는 개발자입니다.</li><br/></li></li>• 꼭 취업하고 싶어요. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: "left"; color: #c9d1d9;"> • 저는 꾸준히 성장하는 개발자입니다.</li><br/></li></li>• 꼭 취업하고 싶어요. </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
