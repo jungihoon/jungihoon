@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 <div align= "center"; style="color: #000000;">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&color=000000&height=120&text=Jeon%20GiHoon%20();&animation=&fontColor=ffffff&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&color=000000&height=120&text=Jeon%20GiHoon%20( );&animation=&fontColor=ffffff&fontSize=60" />
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 열심히 살고있는중인 전기훈입니다 </h2>  
